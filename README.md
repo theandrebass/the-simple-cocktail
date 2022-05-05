@@ -1,12 +1,12 @@
-# Andre's Bar Book
+# The Simple Cocktail
 Andre's Bar Book breaks the science of mixology down into such an easy to understand concept.
 
-![https://andresbarbook.vercel.app/](uploads/facebook.png)
+![https://simplecocktail.vercel.app/](uploads/facebook.png)
 
 #### Description
-Looking to impress your family and guests with your cocktails? Look no further than this cocktail recipe website, Andre's Bar Book - Bartending and mixology for the home cocktail enthusiast. Learn the key techniques of bartending and mixology.
+Looking to impress your family and guests with your cocktails? Look no further than this cocktail recipe website, The Simple Cocktail - Bartending and mixology for the home cocktail enthusiast. Learn the key techniques of bartending and mixology.
 
-Over 60 of the best drink recipes: Andre's Bar Book contains more than 60 cocktail recipes that employ the techniques you can look up in this craft cocktail website. Each technique is commented by history on the drink.
+Over 60 of the best drink recipes: The Simple Cocktail contains more than 60 cocktail recipes that employ the techniques you can look up in this craft cocktail website. Each technique is commented by history on the drink.
 
 #### Bartending and mixology techniques include the best practices for:
 - Juicing
@@ -36,6 +36,6 @@ When it comes to the garnish, don’t limit yourself to the orange wedge and min
 
 In a Collins glass, muddle the orange slice and syrup. Add the sherry and stir briefly. Top with crushed ice; cover; shake vigorously until outside is frosty, about 30 seconds. Top with more crushed ice, packing the glass fully. Garnish with the orange wedge and mint bouquet and serve with a straw.
 
-By [Andre Bass](https://andrebass.co) ([@onlyandrebass](https://twitter.com/onlyandrebass))
+By [Andre Bass](https://andrebass.com) ([@onlyandrebass](https://twitter.com/onlyandrebass))
 
-[![https://andresbarbook.vercel.app/](uploads/powered-by-vercel.svg)](https://andresbarbook.vercel.app/)
+[![https://thesimplecocktail.vercel.app/](uploads/powered-by-vercel.svg)](https://simplecocktail.vercel.app/)
